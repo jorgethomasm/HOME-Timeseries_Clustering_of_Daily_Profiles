@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-plots_and_results/
 data/*.*
 clean_split_data_MESS.R
 clean_split_data_IND.R
