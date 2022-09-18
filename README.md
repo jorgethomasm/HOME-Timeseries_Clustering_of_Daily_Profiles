@@ -11,7 +11,7 @@ output: html_document
 
 Author: Jorge A. Thomas
 
-jorgethomasm@ieee.org; jorge.thomas@iosb.fraunhofer.de
+jorgethomasm@ieee.org
 
 Started:   02.05.2019
 Continued: 23.04.2020
