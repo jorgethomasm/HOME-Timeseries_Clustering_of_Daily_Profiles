@@ -6,6 +6,11 @@ output: html_document
 ---
 ## Summary
 
+This R-script is inspired on the IEEE Conference Proceeding titled: 
+"Cluster and calendar based visualization of time series data" (2003)
+by Van Wijk, J.J. and Van Selow, E.R.
+Available at: https://ieeexplore.ieee.org/abstract/document/801851
+
 # Clustering Method to Visualise Daily Patterns of Demand / Load 
 # E.g.: [kW]
 
@@ -28,11 +33,3 @@ Unsupervised Learning:
 
 **T:** Ambient Temperature or exogenous predictor e.g.: [Celsius]
 
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
