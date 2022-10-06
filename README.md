@@ -9,7 +9,12 @@ output: html_document
 This R-script is inspired on the IEEE Conference Proceeding titled: 
 "Cluster and calendar based visualization of time series data" (2003)
 by Van Wijk, J.J. and Van Selow, E.R.
+
 Available at: https://ieeexplore.ieee.org/abstract/document/801851
+
+For interpretation of the final plot, please go to the Wiki home-page of this repository:
+
+https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki 
 
 # Clustering Method to Visualise Daily Patterns of Demand / Load 
 # E.g.: [kW]
