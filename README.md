@@ -1,22 +1,15 @@
----
-title: "readme"
-author: "jthomas"
-date: "27 2 2020"
-output: html_document
----
 ## Summary
 
 This R-script is inspired on the IEEE Conference Proceeding titled: 
-"Cluster and calendar based visualization of time series data" (2003)
-by Van Wijk, J.J. and Van Selow, E.R.
 
-Available at: https://ieeexplore.ieee.org/abstract/document/801851
+[Cluster and calendar based visualization of time series data](https://ieeexplore.ieee.org/abstract/document/801851)
+by Van Wijk, J.J. and Van Selow, E.R. (1999)
 
 For interpretation of the final plot, please go to the Wiki home-page of this repository:
 
 https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki 
 
-# Clustering Method to Visualise Daily Patterns of Demand / Load 
+# Clustering Method to Visualise Daily Patterns of Power Demand
 # E.g.: [kW]
 
 Author: Jorge A. Thomas
