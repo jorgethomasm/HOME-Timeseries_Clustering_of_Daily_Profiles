@@ -1,4 +1,4 @@
-## Summary
+# Summary
 
 This R-script is inspired on the IEEE Conference Proceeding titled: 
 
@@ -10,11 +10,9 @@ For interpretation of the final plot, please go to the Wiki home-page of this re
 https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki 
 
 # Clustering Method to Visualise Daily Patterns of Power Demand
-# E.g.: [kW]
+### For Example: timeseries of electrical or heating power in kilowatts [kW]
 
-Author: Jorge A. Thomas
-
-jorgethomasm@ieee.org
+Author: Jorge A. Thomas (jorgethomasm@ieee.org)
 
 Started:   02.05.2019
 Continued: 23.04.2020
@@ -29,5 +27,4 @@ Unsupervised Learning:
 # Variables notation
 **D:** Demand / Load e.g.: [kW]
 
-**T:** Ambient Temperature or exogenous predictor e.g.: [Celsius]
-
+**T:** Exogenous predictor, e.g. a timeseries of ambient temperature in degree Celsius [°C]
